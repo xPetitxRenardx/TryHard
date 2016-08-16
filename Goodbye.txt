@@ -1,2 +1,4 @@
+print("See you!")
 print("Goodbye, my pretty bear!") 
 print('By!')
+
