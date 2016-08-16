@@ -1,2 +1,2 @@
-print("Goodbye, my pretty bear") 
-print('By')
+print("Goodbye, my pretty bear!") 
+print('By!')
