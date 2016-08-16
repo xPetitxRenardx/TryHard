@@ -1,3 +1,4 @@
-print("Goodbye, my pretty bear") 
-print('By')
-print("See you")
+print("See you!")
+print("Goodbye, my pretty bear!") 
+print('By!')
+
