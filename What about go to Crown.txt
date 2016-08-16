@@ -1,4 +1,4 @@
-print("What about go to Crown?")
+print("What about go to Crown? You should have gone to Crown")
 print("NOW!")
 print("Hello World!")
 print("Hey, baby, now i'm brun")
